@@ -63,23 +63,27 @@ classification.
 
 ## Repository Structure
 
-``` text
+```text
 Machine-Learning-Lab/
 │
-├── 01_Introduction_to_ML/
-├── 02_Evaluation_Metrics/
-├── 03_Linear_Regression/
-├── 04_Logistic_Regression/
-├── 05_Decision_Tree/
-├── 06_Support_Vector_Machine/
-├── 07_K_Nearest_Neighbors/
-├── 08_K_Means_Clustering/
-├── 09_Principal_Component_Analysis/
-├── 10_Random_Forest/
+├── 01_Curriculum/
+├── 02_Introduction_to_Machine_Learning/
+├── 03_Evaluation_Metrics/
+├── 04_Approach/
+├── 05_Linear_Regression/
+├── 06_Logistic_Regression/
+├── 07_Decision_Tree_Classifier/
+├── 08_Support_Vector_Machines/
+├── 09_K_Nearest_Neighbors/
+├── 10_K_Means_Clustering/
+├── 11_Principal_Component_Analysis/
+├── 12_Random_Forests/
 │
 ├── datasets/
 ├── notebooks/
 ├── images/
+├── requirements.txt
+├── LICENSE
 └── README.md
 ```
 
